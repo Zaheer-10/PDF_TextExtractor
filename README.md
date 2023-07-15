@@ -32,7 +32,8 @@ license: mit
 ---
 # Example
 - Here is an example of the app interface:
-- ![img]()
+- ![img](https://github.com/Zaheer-10/PDF_TextExtractor/blob/main/Demo/PDF-textextractor-demo.png)
+
 ---
 # License
 - This project is licensed under the MIT License.
