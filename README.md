@@ -38,4 +38,4 @@ license: mit
 # License
 - This project is licensed under the MIT License.
 ---
-Check out the Project  at [link](https://huggingface.co/spaces/soulofmercara/PDF-TextExtractor
+Check out the Project  at - https://huggingface.co/spaces/soulofmercara/PDF-TextExtractor
